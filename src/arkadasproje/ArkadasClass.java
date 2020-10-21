@@ -15,6 +15,8 @@ public class ArkadasClass {
 		
 		
 		
+		
+		
 		System.out.println("Selimden deneme saat 22:50");
 		System.out.println("Bakalım hele, olacak mı?");
 		

@@ -7,6 +7,7 @@ public class ArkadasClass {
 		System.out.println("Selam arkadaslar");
 
 		System.out.println("hi  faruk branchtan");
+		System.out.println("hi  master remote branchtan");
 
 
 

@@ -4,6 +4,7 @@ public class ArkadasClass {
 
 	public static void main(String[] args) {
 		System.out.println("Selam arkadaslar");
+
 		
 		
 		
@@ -22,6 +23,10 @@ public class ArkadasClass {
 		
 		System.out.println("Bu sefer olacak");
 		
+
+				System.out.println("Selam arkadaslar");
+
+
 		
 
 	}

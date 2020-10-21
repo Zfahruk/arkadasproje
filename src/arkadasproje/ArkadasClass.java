@@ -8,6 +8,7 @@ public class ArkadasClass {
 		System.out.println("Bakalım hele, olacak mı?");		
 		System.out.println("Bu sefer olacak");
 		System.out.println("Selam arkadaslar");
+		System.out.println("Selam arkadaslar 2");
 
 
 		

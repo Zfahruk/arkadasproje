@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="49179b16-89f7-42e0-940d-1c7c1229794d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/arkadasproje/ArkadasClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/arkadasproje/ArkadasClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arkadasproje/ArkadasClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arkadasproje/ArkadasClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,14 +156,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.-69.1536.864@0.0.1366.728" timestamp="1603320545546" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1603323567097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-69.1536.864@0.0.1366.728" timestamp="1603323567097" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1603323567097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-69.1536.864@0.0.1366.728" timestamp="1603323567097" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1603323567097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-69.1536.864@0.0.1366.728" timestamp="1603323567097" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1603323567097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-69.1536.864@0.0.1366.728" timestamp="1603323567097" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1603319346170">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728/-1920.-69.1536.864@0.0.1366.728" timestamp="1603319346170" />
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603319997369">
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603323086702">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1920.-69.1536.864@0.0.1366.728" timestamp="1603319997369" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1920.-69.1536.864@0.0.1366.728" timestamp="1603323086702" />
     <state x="65" y="0" key="new project wizard" timestamp="1603322056642">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
